@@ -138,6 +138,7 @@ const firebaseConfig = {
     apiKey: "AIzaSyCK3R2CVvSoo9kt9o29_rCEHWMcsSXshpY",
     authDomain: "dopplertown-records.firebaseapp.com",
     projectId: "dopplertown-records",
+    databaseURL: "https://dopplertown-records-default-rtdb.asia-southeast1.firebasedatabase.app/",
     storageBucket: "dopplertown-records.appspot.com",
     messagingSenderId: "795415623175",
     appId: "1:795415623175:web:d074d2ceae09a00bf89ca2"
