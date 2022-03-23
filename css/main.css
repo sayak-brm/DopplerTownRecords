@@ -68,7 +68,7 @@
 }
 
 #submitbutton .button {
-  background: #2B2D2F;
+  background: #2b2f2d;
   height: 64px;
   width: 200px;
   text-align: center;
@@ -85,7 +85,7 @@
 
 #submitbutton .button .submittext {
   font: bold 1.25rem/1 Viga;
-  color: #a0a2d8;
+  color: #a0d8c5;
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-52%);
@@ -152,26 +152,26 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  color: #23376b;
+  color: #236b6b;
 }
 
 #email::-webkit-input-placeholder {
-  color: rgba(35, 56, 107, 0.5);
+  color: rgba(35, 107, 91, 0.5);
   opacity: 1;
 }
 
 #email:-ms-input-placeholder {
-  color: rgba(35, 56, 107, 0.5);
+  color: rgba(35, 107, 91, 0.5);
   opacity: 1;
 }
 
 #email::-ms-input-placeholder {
-  color: rgba(35, 56, 107, 0.5);
+  color: rgba(35, 107, 91, 0.5);
   opacity: 1;
 }
 
 #email::placeholder {
-  color: rgba(35, 56, 107, 0.5);
+  color: rgba(35, 107, 91, 0.5);
   opacity: 1;
 }
 
