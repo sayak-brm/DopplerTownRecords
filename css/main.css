@@ -53,7 +53,7 @@
   line-height: 1em;
 }
 
-.sec1 #secondarysplit {
+.sec1 #textsplit {
   display: none;
 }
 
@@ -264,7 +264,7 @@ a:visited {
   .sec1 #secondary {
     font-size: 24px;
   }
-  .sec1 #secondarysplit {
+  .sec1 #textsplit {
     display: unset;
   }
   .title {

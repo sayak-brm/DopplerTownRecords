@@ -17,8 +17,6 @@ VANTA.DOTS({
 })
 
 // Wrap every letter in a span
-var textWrapper1 = document.querySelector('.sec1 #primary');
-textWrapper1.innerHTML = textWrapper1.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
 anime.timeline({ loop: false })
     .add({
